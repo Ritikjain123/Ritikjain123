@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Jain</h1>
 <h3 align="center">A passionate data analytics from India</h3>
 
-<img align ="right" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw1WpBaUtEhxSwnUVHuISJ_y&ust=1709895642492000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjR0Pz_4YQDFQAAAAAdAAAAABAG">
+<img align ="right" width = "400" alt="coding" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikjain123&label=Profile%20views&color=0e75b6&style=flat" alt="ritikjain123" /> </p>
 
