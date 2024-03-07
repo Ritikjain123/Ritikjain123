@@ -1,3 +1,4 @@
+![logo](https://github.com/Ritikjain123/Ritikjain123/blob/main/Dataanalytics.jpg)
 <h1 align="center">Hi 👋, I'm Ritik Jain</h1>
 <h3 align="center">A passionate data analytics from India</h3>
 
